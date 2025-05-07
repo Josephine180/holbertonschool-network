@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Use 'nc' (Netcat) to listen on port 98 on localhost (127.0.0.2).
+# '-l' means "listen," '-p 98' specifies port 98, and '-v' makes it verbose for better feedback.
+# The script will continuously listen and display any input received.
+
+nc -lvnp 98
