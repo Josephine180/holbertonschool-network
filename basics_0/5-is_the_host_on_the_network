@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Check if an argument (IP address) is provided
 # '$1' = the first argument (adress ip)
 # '-z' = vide ?
