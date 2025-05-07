@@ -1,15 +1,5 @@
 # Project: Networking basics #1 | Holberton Rennes, France Intranet
 
-Resources
----------
-
-**Read or watch**:
-
-*   [What is localhost](/rltoken/7n2kKjq50U_Uv-TrEK-NUA "What is localhost")
-*   [What is 0.0.0.0](/rltoken/1efC1iImna8ubDSgokLbpQ "What is 0.0.0.0")
-*   [What is the hosts file](/rltoken/6o7mmDL8joIrC5DXNRSnKw "What is the hosts file")
-*   [Netcat examples](/rltoken/_TN2G4Djh-f7MSukzToXpw "Netcat examples")
-
 **man or help**:
 
 *   `ifconfig`
