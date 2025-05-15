@@ -92,4 +92,3 @@ The browser:
 This entire process, from pressing Enter to seeing the homepage, happens in under a second. It involves protocols, servers, and systems.
 
 Understanding this sequence is critical for software engineers, as it touches on almost every layer of modern computing: networking, security, server infrastructure, and browser internals.
-
